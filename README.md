@@ -45,8 +45,6 @@ The calculator uses JavaScript functions to handle user input and calculations.
 
 - backClear() : Removes the last entered character from the display.
 
-- equalTo()
+- equalTo() : Evaluates the entered mathematical expression and displays the result.
 
-Evaluates the entered mathematical expression and displays the result.
-
-If an invalid expression is entered, the calculator displays "Error" and automatically clears the display after one second.
+- If an invalid expression is entered, the calculator displays "Error" and automatically clears the display after one second.
